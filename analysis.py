@@ -11,7 +11,7 @@ analyzer = SentimentIntensityAnalyzer()
 
 filename = "Raw_Data/season1.json"
 def sentimentify(filename):
-    picpath = filename[9:-5]
+    picpath = "Images/" + filename[9:-5]
     # Read the file
     with open(filename, "r") as data_file:
         data = json.load(data_file)
@@ -103,3 +103,44 @@ def sentimentify(filename):
 
     print("\nVADER Means Table:\n")
     print(df.groupby("Ep")["Compound"].mean().sort_values(ascending=False)) # Overall Sentiment Means
+
+    # Positive sentiments only mean df
+    positive_df = df[df['Positive?']==True].groupby('Ep')['Compound'].mean() #.sort_values(ascending=False)
+
+    # Negative sentiments only mean df
+    negative_df = df[df["Positive?"]==False].groupby("Ep")["Compound"].mean() #.sort_values(ascending=True)
+
+    # All sentiments mean df
+    mean_df = df.groupby("Ep")["Compound"].mean() #.sort_values(ascending=False)
+
+    colors = ["red", "gray", "yellow", "green", "gold", "black", "blue", "purple", "orange", "pink"]
+    edges = ["black", "black", "black", "black", "black", "black", "black", "black", "black", "black"]
+
+    fig, ax = plt.subplots(figsize=(15, 5))
+    pos_rect = ax.bar(np.arange(len(positive_df)), positive_df, color=colors, edgecolor=edges)
+    ax.set_xticks(np.arange(len(positive_df)))
+    ax.set_xticklabels(positive_df.keys(), rotation = 90)
+    ax.set_xlim(-0.5, len(positive_df) - 0.5)
+
+    plt.savefig(f'{picpath}_4.png')
+    plt.show()
+
+    plt.close()
+    fig, ax = plt.subplots(figsize=(15, 5))
+    neg_rect = ax.bar(np.arange(len(negative_df)), negative_df, color=colors, edgecolor=edges)
+    ax.set_xticks(np.arange(len(negative_df)))
+    ax.set_xticklabels(negative_df.keys(), rotation = 90)
+    ax.set_xlim(-0.5, len(positive_df) - 0.5)
+
+    plt.savefig(f'{picpath}_5.png')
+    plt.show()
+
+    plt.close()
+    fig, ax = plt.subplots(figsize=(15, 5))
+    mean_green_rect = ax.bar(np.arange(len(mean_df)), mean_df, color=colors, edgecolor=edges)
+    ax.set_xticks(np.arange(len(mean_df)))
+    ax.set_xticklabels(mean_df.keys(), rotation = 90)
+    ax.set_xlim(-0.5, len(positive_df) - 0.5)
+
+    plt.savefig(f'{picpath}_6.png')
+    plt.show()
