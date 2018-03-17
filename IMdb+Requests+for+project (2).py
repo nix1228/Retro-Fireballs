@@ -369,10 +369,11 @@ plt.plot(x_axis,y_axis, label="Season 6", color="green")
 x_axis=["Ep.1","Ep.2","Ep.3","Ep.4","Ep.5","Ep.6","Ep.7"]
 y_axis=ratings_season_seven_df
 plt.plot(x_axis,y_axis, label="Season 7", color="orange")
-plt.legend(loc="best")
+plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 plt.title("Ratings Per Episode in Each Season")
 plt.xlabel("Episode")
 plt.ylabel("Rating Score")
+plt.savefig("RatingsPerEpisodeinEachSeason")
 plt.show()
 
 
@@ -400,10 +401,11 @@ plt.xlabel("Episode Number")
 plt.ylabel("Number of Votes Per Episode ")
 plt.plot(x_axis,y_axis)
 plt.legend()
+plt.savefig("IMdBvotesperEpisodebySeason")
 plt.show()
 
 
-# In[57]:
+# In[38]:
 
 
 avg_rating_season_one=ratings_df["Season 1"].mean()
@@ -415,7 +417,7 @@ avg_rating_season_six=ratings_df["Season 6"].mean()
 avg_rating_season_seven=ratings_season_seven_df.mean()
 
 
-# In[58]:
+# In[39]:
 
 
 x_axis=["Season 1"]
@@ -444,10 +446,11 @@ plt.title("Average Ratings Per Season")
 plt.xlabel("Season")
 plt.ylabel("Average Rating")
 plt.xticks(rotation=45)
+plt.savefig("AverageRatingsPerSeason")
 plt.show()
 
 
-# In[55]:
+# In[40]:
 
 
 avg_votes_season_one=votes_df["Season 1"].mean()
@@ -459,7 +462,7 @@ avg_votes_season_six=votes_df["Season 6"].mean()
 avg_votes_season_seven=votes_df_season_seven.mean()
 
 
-# In[56]:
+# In[41]:
 
 
 x_axis="Season 1"
@@ -487,5 +490,6 @@ plt.xticks(rotation=45)
 plt.title("Average Votes per Season")
 plt.xlabel("Season")
 plt.ylabel("Average Number of Votes")
+plt.savefig("AverageVotesperSeason")
 plt.show()
 
