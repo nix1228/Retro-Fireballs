@@ -1,0 +1,33 @@
+import json
+
+# Define keywords
+keywords = ("raven", "message")
+
+# Read in json file for the season
+filename = 'Raw_Data/season1.json'
+with open(filename, 'r') as s1:
+    data = json.load(s1)
+
+topandas = []
+eptitles = []
+
+for episode in data.keys():
+    eptitles.append(episode[16:-4])
+    for key, line in data[episode].items():
+        # Read json file line by line
+        if any(keyword in line.lower() for keyword in keywords)
+             topandas.append({
+                "Episode": episode[16:-4],
+                "Key": key,
+                "Line": line
+            })
+
+df = pd.DataFrame(topandas)
+df = df[["Episode", "Key", "Line"]]
+df.head()
+        # #Create a python dictionary from json object
+        # s1_dict = json.loads(line)
+
+        # #Check if "body" (lowercased) contains any of the keywords
+        # if any(keyword in s1_dict["body"].lower() for keyword in keywords):
+           

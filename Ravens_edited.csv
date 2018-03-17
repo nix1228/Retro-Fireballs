@@ -1,0 +1,117 @@
+,Episode,Key,Line,Sender,Recipient,Origin,Destination,Event,Description
+0,S01E01 Winter Is Coming,143,- Tell me. - There was a raven from King's Landing.,Robert_Baratheon,Ned_Stark,Kings_Landing,Winterfell,Death,John Arryn's death
+1,S01E01 Winter Is Coming,149,The raven brought more news.,Robert_Baratheon,Ned_Stark,Kings_Landing,Winterfell,Movement,Robert Baratheon's arrival to Winterfell
+2,S01E02 The Kingsroad,379,I don't trust a raven to carry these words.,NaN,NaN,NaN,NaN,Delete,NaN
+3,S01E03 Lord Snow,317,A raven came... for Ned Stark's son.,Robb_Stark,Jon_Snow,Winterfell,Castle_Black,Message,NaN
+4,S01E03 Lord Snow,323,A raven from Winterfell this morning.,Robb_Stark,Jon_Snow,Winterfell,Castle_Black,Message,NaN
+5,"S01E04 Cripples, Bastards, And Broken Things",323,"Yes, women, cravens...",NaN,NaN,NaN,NaN,Delete,NaN
+6,"S01E04 Cripples, Bastards, And Broken Things",398,Get a message to this paragon of yours - discreetly.,Robert_Baratheon,Jory_Cassel,Kings_Landing,Kings_Landing,Investigation,Look into Arryn's death
+7,"S01E04 Cripples, Bastards, And Broken Things",478,Can I leave this with you? The message from Lord Stark.,Jory_Cassel,Jaime_Lannister,Kings_Landing,Kings_Landing,Message,Message from Eddard intended for Robert Baratheon
+8,S01E06 A Golden Crown,233,If you deliver a message from me...,Tyrion_Lannister,Lady_Arryn,The_Vale,The_Vale,Message,Message from Tyrion to Lady Arryn while in captivity
+9,S01E06 A Golden Crown,236,If you deliver the message...,Tyrion_Lannister,Lady_Arryn,The_Vale,The_Vale,Message,Message from Tyrion to Lady Arryn while in captivity
+10,S01E06 A Golden Crown,238,What message?,Tyrion_Lannister,Lady_Arryn,The_Vale,The_Vale,Message,Message from Tyrion to Lady Arryn while in captivity
+11,S01E06 A Golden Crown,29,You hear me? Send a raven and put an end to it.,NaN,NaN,NaN,NaN,Delete,NaN
+12,S01E06 A Golden Crown,321,Send a raven for him. I'm happy to wait.,Tyrion_Lannister,Jaime_Lannister,The_Vale,Kings_Landing,Message,Failed request to fight in his stead
+13,S01E06 A Golden Crown,40,Piss on that. Send a raven. I want you to stay.,Ned_Stark,Catelyn_Stark,Kings_Landing,Winterfell,Message,Request to return Tyrion Lannister
+14,S01E06 A Golden Crown,409,Send a raven to Casterly Rock.,Ned_Stark,Tywin_Lannister,Kings_Landing,Casterly_Rock,Message,Request Tywin's presence to account for the crimes of his bannermen.
+15,S01E08 The Pointy End,107,A raven from King's Landing.,Unknown,Jon_Snow,Kings_Landing,Castle_Black,Death,News. King Robert is dead. Ned Stark charged
+16,S01E09 Baelor,183,There was a raven.,Robb_Stark,Jon_Snow,Winterfell,Castle_Black,Message,News. Robb is off to war against the Lannisters
+17,S01E09 Baelor,184,I read the message to Maester Aemon.,Robb_Stark,Jon_Snow,Winterfell,Castle_Black,Message,News. Robb is off to war against the Lannisters
+18,S01E09 Baelor,258,What could I do when the ravens brought the news from the South...,Unknown,Maester_Aemon,The_South,Citadel,Death,Receives news of his family's demise
+19,S01E09 Baelor,60,It's a birthday message to his grand-niece Walda.,Walder_Frey,Robb_Stark,The_Twins,Riverlands,Message,Message intercepted. Walder Frey birthday message to grand-niece Wanda
+20,S01E10 Fire And Blood,316,They'll send out ravens. People will come after you.,NaN,NaN,NaN,NaN,Delete,NaN
+21,S02E01 The North Remembers,426,"and my bannerman would receive a raven with a message,",Tywin_Lannister,Stark_bannerman,Kings_Landing,Riverlands,Message,Jaime goads Robb into lax security
+22,S02E01 The North Remembers,440,Stannis Baratheon sent ravens to all the high lords of Westeros.,Stannis_Baratheon,High_Lords,Dragonstone,Westeros,Message,Stannis requests reinforcements to take back the throne
+23,S02E01 The North Remembers,72,"A raven arrived from the citadel this morning, Your Grace.",Conclave,Maester_Pycelle,Citadel,Kings_Landing,Message,Conclave concludes a long summer is likely
+24,S02E02 The Night Lands,123,A raven flew in this morning from Castle Black.,Jeor_Momont,Maester_Pycelle,Castle_Black,Kings_Landing,Message,Lord Commander requesting more men
+25,S02E02 The Night Lands,537,like a trained raven clutching his message.,Robb_Stark,Balon_Greyjoy,Riverlands,Iron_Islands,Message,Robb Stark asks the Greyjoys for their support
+26,S02E04 Garden Of Bones,101,So we'll have to send your brother a message some other way.,Joffrey_Lannister,Sansa_Stark,Kings_Landing,Kings_Landing,Message,Joffrey threatens to kill Sansa.
+27,S02E04 Garden Of Bones,98,Killing you would send your brother a message.,Joffrey_Lannister,Sansa_Stark,Kings_Landing,Kings_Landing,Message,Joffrey threatens to kill Sansa.
+28,S02E05 The Ghost Of Harrenhal,200,He hasn't sent a raven in weeks.,Tywin_Lannister,Jaime_Lannister,Riverlands,Kings_Landing,Message,Correspondence on the war with the North
+29,S02E05 The Ghost Of Harrenhal,608,I did ask him. He'd never heard of a three-eyed raven.,Rodrik_Cassel,Ned_Stark,Winterfell,Winterfell,Conversation,Rodrik (winterfell's MoA) asked Ned about the three-eyed raven
+30,S02E05 The Ghost Of Harrenhal,616,"So, you've been dreaming of a three-eyed raven again?",Rodrik_Cassel,Ned_Stark,Winterfell,Winterfell,Conversation,Rodrik (winterfell's MoA) asked Ned about the three-eyed raven
+31,S02E05 The Ghost Of Harrenhal,634,"The three-eyed raven,",Rodrik_Cassel,Ned_Stark,Winterfell,Winterfell,Conversation,Rodrik (winterfell's MoA) asked Ned about the three-eyed raven
+32,S02E06 The Old Gods And The New,45,"Maester Luwin, send a raven to Pyke",Theon_Greyjoy,Balon_Greyjoy,Winterfell,Iron_Islands,Message,Theon betrays the Starks
+33,S02E06 The Old Gods And The New,53,Send the ravens.,Theon_Greyjoy,Maester_Luwin,Winterfell,Iron_Islands,Message,Theon orders Maester Luwin of Winterfell
+34,S02E06 The Old Gods And The New,638,"We've had ravens from White Harbour,",Northern_Lords,Robb_Stark,White_Harbor,Riverlands,Death,Rodrik is dead. Winterfell falls to Theon.
+35,S02E07 A Man Without Honor,648,How many times can you read one raven scroll?,NaN,Jaime_Lannister,Tarth,Kings_Landing,Movement,Stannis' ships have been spotted moving north past Tarth
+36,S02E08 The Prince Of Winterfell,40,We've killed all the ravens.,NaN,NaN,NaN,NaN,Delete,NaN
+37,S02E08 The Prince Of Winterfell,497,We've sent a dozen ravens. None have returned.,Robb_Stark,Maester_Luwin,Riverlands,Winterfell,Message,Robb Stark inquiring about state of Winterfell
+38,S02E08 The Prince Of Winterfell,753,I'd leave 'em up a few more days. Sends a message.,NaN,NaN,NaN,NaN,Delete,NaN
+39,S02E08 The Prince Of Winterfell,754,"If they haven't got the damn message yet, a few more days won't help.",NaN,NaN,NaN,NaN,Delete,NaN
+40,S02E10 Valar Morghulis,297,Send more ravens.,Theon_Greyjoy,Balon_Greyjoy,Winterfell,Iron_Islands,Message,Theon sends word to his father
+41,S02E10 Valar Morghulis,298,You killed all the ravens.,NaN,NaN,NaN,NaN,Delete,NaN
+42,S03E01 Valar Dohaeris,3,Did you send the ravens?, Samwell_Tarley,Maester_Aemon,Beyond_The_Wall,Castle_Black,Failed,Samwell fails to send a raven warning of wight-walkers
+43,S03E01 Valar Dohaeris,5,Did you send the ravens?, Samwell_Tarley,Maester_Aemon,Beyond_The_Wall,Castle_Black,Failed,Samwell fails to send a raven warning of wight-walkers
+44,"S03E02 Dark Wings, Dark Words",12,"No, it was the three-eyed raven.",NaN,NaN,NaN,NaN,Delete,NaN
+45,"S03E02 Dark Wings, Dark Words",23,The three-eyed raven tell you?,NaN,NaN,NaN,NaN,Delete,NaN
+46,"S03E02 Dark Wings, Dark Words",661,A three-eyed raven?,NaN,NaN,NaN,NaN,Delete,NaN
+47,"S03E02 Dark Wings, Dark Words",665,"No, the raven is something different, something deeper.",NaN,NaN,NaN,NaN,Delete,NaN
+48,"S03E02 Dark Wings, Dark Words",666,The raven brings the sight.,NaN,NaN,NaN,NaN,Delete,NaN
+49,"S03E02 Dark Wings, Dark Words",7,Because the raven is you.,NaN,NaN,NaN,NaN,Delete,NaN
+50,S03E07 The Bear And The Maiden Fair,563,Talking about visions and three-eyed ravens and worse.,NaN,NaN,NaN,NaN,Delete,NaN
+51,S03E07 The Bear And The Maiden Fair,577,Bran needs to find the raven beyond the Wall.,NaN,NaN,NaN,NaN,Delete,NaN
+52,S03E07 The Bear And The Maiden Fair,581,The raven's been coming to me ever since I fell from that tower.,NaN,NaN,NaN,NaN,Delete,NaN
+53,S03E07 The Bear And The Maiden Fair,592,But the Gods wouldn't spare a raven's cold shit for you or me or anyone.,NaN,NaN,NaN,NaN,Delete,NaN
+54,S03E07 The Bear And The Maiden Fair,648,You were in charge of the ravens at Harrenhal.,Qyburn,Selwyn_Tarth,Harrenhal,Evenfall_Hall,Message,Offer for Brienne's safe return
+55,S03E09 The Rains Of Castamere,370,I have to find the three-eyed raven.,NaN,NaN,NaN,NaN,Delete,NaN
+56,S03E10 Mhysa,225,"I heard he killed all the ravens. And after that, nothing.",NaN,NaN,NaN,NaN,Delete,NaN
+57,S03E10 Mhysa,605,We had 44 ravens at last count.,Maester_Aemon,All_Lords,Castle_Black,All_Houses,Message,Warning that the night is coming
+58,S04E03 Breaker Of Chains,404,"What was that for? - I need you to write a message.""",Stannis_Baratheon,Iron_Bank,Dragonstone,Braavos,Message,Message to implore the Iron bank to support Stannis written by Shireen
+59,S04E05 First Of His Name,492,Carried his messages and returned the replies.,NaN,NaN,NaN,NaN,Delete,NaN
+60,S04E05 First Of His Name,623,Do you want to find the three-eyed raven?,NaN,NaN,NaN,NaN,Delete,NaN
+61,S04E10 The Children,352,We'll rest with the three-eyed raven.,NaN,NaN,NaN,NaN,Delete,NaN
+62,S04E10 The Children,379,You're the three-eyed raven?,NaN,NaN,NaN,NaN,Delete,NaN
+63,S05E01 The Wars To Come,145,The Sons of the Harpy will hear that message.,Daenerys_Targaryen,Sons_of_Harpy,Meereen,Meereen,Message,Daenerys plans to hold a public funeral for a dead unsullied.
+64,S05E02 The House Of Black And White,314,It would send a message.,NaN,NaN,NaN,NaN,Delete,NaN
+65,S05E02 The House Of Black And White,48,"Before we left, a maester gave you a raven scroll.",NaN,Petyr_Baelish,NaN,NaN,Message,Unknown
+66,S05E03 High Sparrow,606,- Your Grace. - <i> Send a raven with this message</i>,Cersei_Lannister,Petyr_Baelish,Kings_Landing,Eyrie,Message,Summons
+67,S05E03 High Sparrow,657,A message for you from Cersei Lannister.,Cersei_Lannister,Petyr_Baelish,Kings_Landing,Riverlands,Message,Cercei wants littlefinger to return
+68,S05E03 High Sparrow,660,A message for me you say?,NaN,NaN,NaN,NaN,Delete,NaN
+69,S05E05 Kill The Boy,197,I need to get a message to her.,Brienne_Tarth,Sansa_Stark,Riverlands,Winterfell,Message,Message to save Sansa from Ramsey Bolton
+70,"S05E06 Unbowed, Unbent, Unbroken",275,Something so urgent I couldn't trust the words to a raven.,NaN,NaN,NaN,NaN,Delete,NaN
+71,S05E07 The Gift,365,By raven or horse?,NaN,NaN,NaN,NaN,Delete,NaN
+72,S05E08 Hardhome,538,wanted to burn him alive to send us a message.,NaN,NaN,NaN,NaN,Delete,NaN
+73,S05E09 The Dance Of Dragons,102,"And rather than send a raven or speak to me directly,",Jaime_Lannister,Doran_Martell,Kings_Landing,Dorne,Message,Message inquiring about Myrcella
+74,S05E09 The Dance Of Dragons,105,We received a threatening message.,Oberyn_Martel,Jaime_Lannister,Kings_Landing,Kings_Landing,Message,Threat included Myrcella's necklace
+75,S05E09 The Dance Of Dragons,48,A boy with a scroll could deliver this message.,NaN,NaN,NaN,NaN,Delete,NaN
+76,S06E02 Home,303,<i>send ravens to all the northern houses. Roose Bolton is dead.</i>,Ramsay_Bolton,Northern_Lords,Winterfell,Northern_Lords,Death,Roose Bolton (poisoned by Ramsay)
+77,S06E02 Home,52,The Three-Eyed Raven says there's a war coming.,NaN,NaN,NaN,NaN,Delete,NaN
+78,S06E03 Oathbreaker,317,"Tell me, can your little birds get a message",Tyrion_Lannister,Masters,Meereen,Yunkai_Astapor_Volantis,Message,Warning to obey Daenerys
+79,S06E05 The Door,526,Ramsay received a raven before I escaped Winterfell.,Brynden_Tully,Ramsay_Bolton,Riverrun,Castle_Black,Message,Ramsay received word that Blackfish has retaken Riverrun
+80,S06E05 The Door,535,We can send the Blackfish a raven.,Sansa_Stark,Brynden_Tully,Castle_Black,Riverrun,Message,Sansa rallying support for the Starks in opposition to Ramsay
+81,S06E06 Blood of My Blood,542,The Three-Eyed Raven sent for me.,NaN,NaN,NaN,NaN,Delete,NaN
+82,S06E06 Blood of My Blood,543,The Three-Eyed Raven's dead.,NaN,NaN,NaN,NaN,Delete,NaN
+83,S06E06 Blood of My Blood,565,You are the Three-Eyed Raven now.,NaN,NaN,NaN,NaN,Delete,NaN
+84,S06E07 The Broken Man,417,We sent ravens to Houses Manderly...,Jon_Snow,Wyman_Manderly,Castle_Black,House_Manderly,Message,Rallying troops
+85,S06E07 The Broken Man,418,I don't care about ravens.,NaN,NaN,NaN,NaN,Delete,NaN
+86,S06E08 No One,291,We need to get a raven north to Sansa.,Brienne_Tarth,Sansa_Stark,Riverrun,The_North,Message,Brienne informs Sansa the Blackfish can't send reinforcements
+87,S06E09 Battle of the Bastards,132,I haven't fed them for seven days. They're ravenous.,NaN,NaN,NaN,NaN,Delete,NaN
+88,S06E10 The Winds of Winter,303,A raven came from the Citadel.,Sansa_Stark,Oldtown_Maesters,Citadel,Winterfell,Message,
+89,S06E10 The Winds of Winter,304,A white raven.,NaN,NaN,NaN,NaN,Delete,NaN
+90,S06E10 The Winds of Winter,515,I'm the Three-Eyed Raven now.,NaN,NaN,NaN,NaN,Delete,NaN
+91,S07E01 Dragonstone,233,"A raven from King's Landing, Your Grace.",Cersei_Lannister,Jon_Snow,Kings_Landing,Winterfell,Message,Cercei orders Jon to bend the knee
+92,S07E01 Dragonstone,37,I'm the three-eyed raven. I have to be ready for this.,NaN,NaN,NaN,NaN,Delete,NaN
+93,S07E01 Dragonstone,588,You think soldiers get ravens with news from home?,NaN,NaN,NaN,NaN,Delete,NaN
+94,S07E02 Stormborn,173,Send a raven north.,Daenerys_Targaryen,Jon_Snow,Dragonstone,Winterfell,Message,Daenerys orders Jon to bend the knee
+95,S07E02 Stormborn,588,"A raven, my king, from the Citadel.",Samwell_Tarly,Jon_Snow,Citadel,Winterfell,Message,Dragonglass exists on Dragonstone
+96,S07E02 Stormborn,589,Jon: This message was sent to me by Samwell Tarly.,Samwell_Tarly,Jon_Snow,Citadel,Winterfell,Message,Dragonglass exists on Dragonstone
+97,S07E02 Stormborn,602,"and, if this message is to be believed,",Samwell_Tarly,Jon_Snow,Citadel,Winterfell,Message,Daenerys has three dragons
+98,S07E03 The Queen's Justice,668,He kept a copy of every raven scroll.,Maester_Luwin,Sansa_Stark,Winterfell,Winterfell,Message,Keeping the stock on provisions for the coming winter
+99,S07E03 The Queen's Justice,721,I'm the Three-Eyed Raven.,NaN,NaN,NaN,NaN,Delete,NaN
+100,S07E03 The Queen's Justice,733,The Three-Eyed Raven taught me.,NaN,NaN,NaN,NaN,Delete,NaN
+101,S07E03 The Queen's Justice,734,I thought you were the Three-Eyed Raven.,NaN,NaN,NaN,NaN,Delete,NaN
+102,S07E04 The Spoils Of War,293,( raven cawing ),NaN,NaN,NaN,NaN,Delete,NaN
+103,S07E05 Eastwatch,219,( ravens cawing ),NaN,NaN,NaN,NaN,Delete,NaN
+104,S07E05 Eastwatch,220,( ravens cawing ),NaN,NaN,NaN,NaN,Delete,NaN
+105,S07E05 Eastwatch,222,Ravens.,Maester_Wolkan,Oldtown_Maesters,Winterfell,Citadel,Message,Night-king marching on Eastwatch
+106,S07E05 Eastwatch,223,We need to send ravens.,Bran_Stark,Oldtown_Maesters,Winterfell,Citadel,Message,Night-king marching on Eastwatch
+107,S07E05 Eastwatch,234,thanks to the magical help of a raven with three eyes?,NaN,NaN,NaN,NaN,Delete,NaN
+108,S07E05 Eastwatch,260,It's also possible that this message,Maester_Wolkan,Oldtown_Maesters,Winterfell,Citadel,Message,Night-king marching on Eastwatch
+109,S07E05 Eastwatch,284,The ravenry was falling apart the last time I checked.,NaN,NaN,NaN,NaN,Delete,NaN
+110,S07E06 Beyond The Wall,529,"Get a raven to Daenerys, tell her what's happened.",Jon_Snow,Daenerys_Targaryen,Beyond_The_Wall,Dragonstone,Message,Jon encounters wight army
+111,S07E06 Beyond The Wall,550,"Raven, we need to send a raven.",Jon_Snow,Daenerys_Targaryen,Beyond_The_Wall,Dragonstone,Message,Jon encounters wight army
+112,S07E06 Beyond The Wall,577,Jon: There's a raven flying for Dragonstone now.,Jon_Snow,Daenerys_Targaryen,Beyond_The_Wall,Dragonstone,Message,Jon encounters wight army
+113,S07E07 The Dragon And The Wolf,478,Littlefinger: It's not easy for ravens to fly in these storms.,Jon_Snow,Sansa_Stark,Beyond_The_Wall,Winterfell,Message,Jon bends the knee for Daenarys
+114,S07E07 The Dragon And The Wolf,551,I think it sends a better message.,Daenerys_Targaryen,Jon_Snow,Kings_Landing,Winterfell,Message,Message for the Lords of the north
+115,S07E07 The Dragon And The Wolf,854,I became the Three-Eyed Raven.,NaN,NaN,NaN,NaN,Delete,NaN
