@@ -11,12 +11,8 @@ analyzer = SentimentIntensityAnalyzer()
 
 filename = "Raw_Data/season1.json"
 def sentimentify(filename):
-<<<<<<< HEAD
-    picpath = filename[9:-5]
-    picpath = "Images/" + picpath
-=======
     picpath = "Images/" + filename[9:-5]
->>>>>>> kevin/analysis
+    
     # Read the file
     with open(filename, "r") as data_file:
         data = json.load(data_file)
